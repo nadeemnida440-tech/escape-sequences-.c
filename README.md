@@ -8,3 +8,7 @@ gcc escape_example.c -o escape_example
 
 ## Run
 ./escape_example
+
+## Program Output
+
+![Program Output](screenshot.png)
